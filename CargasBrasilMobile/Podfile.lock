@@ -1,0 +1,50 @@
+PODS:
+  - Alamofire (5.7.1)
+  - CPF-CNPJ-Validator (1.0.2)
+  - CryptoSwift (1.4.3)
+  - InputMask (6.1.0)
+  - MBProgressHUD (1.2.0)
+  - ReachabilitySwift (5.2.1)
+  - Realm (10.37.2):
+    - Realm/Headers (= 10.37.2)
+  - Realm/Headers (10.37.2)
+  - RealmSwift (10.37.2):
+    - Realm (= 10.37.2)
+  - VMaskTextField (1.0.8)
+
+DEPENDENCIES:
+  - Alamofire
+  - CPF-CNPJ-Validator
+  - CryptoSwift (~> 1.4.1)
+  - InputMask
+  - MBProgressHUD
+  - ReachabilitySwift
+  - RealmSwift (~> 10.37.2)
+  - VMaskTextField
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CPF-CNPJ-Validator
+    - CryptoSwift
+    - InputMask
+    - MBProgressHUD
+    - ReachabilitySwift
+    - Realm
+    - RealmSwift
+    - VMaskTextField
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  CPF-CNPJ-Validator: 0b08069595da2c4b20e964b743bfc0a7334d5347
+  CryptoSwift: a0799ee936271bd2253a006f1e4523df21845000
+  InputMask: 71d291dc54d2deaeac6512afb6ec2304228c0bb7
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  ReachabilitySwift: 5ae15e16814b5f9ef568963fb2c87aeb49158c66
+  Realm: 09e17879e909fafc5336864bff22272de9bd11bf
+  RealmSwift: adaf8f6fd925b41447089fcfab71b9b7cdc3982d
+  VMaskTextField: e77fe33633f999c5c38e70bed0afece0625624a4
+
+PODFILE CHECKSUM: 65b8755df71ba8a9ec3385aa818b28d2a8adb0a8
+
+COCOAPODS: 1.13.0

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C11C4300-A566-4F74-84C7-FEC8023DFA48"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89D42B28-EB7C-4991-B95E-442D70280FD5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/RegisterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "pickerView(_:didSelectRow:inComponent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "89D42B28-EB7C-4991-B95E-442D70280FD5 - 6f03de617b1a194f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterViewController.pickerView(_: __C.UIPickerView, didSelectRow: Swift.Int, inComponent: Swift.Int) -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/cargas%20brasil%20Swift/ICargasBrasil/ICargasBrasil/ui/register/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "416">
+               </Location>
+               <Location
+                  uuid = "89D42B28-EB7C-4991-B95E-442D70280FD5 - 6f03de617b1a194f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterViewController.pickerView(_: __C.UIPickerView, didSelectRow: Swift.Int, inComponent: Swift.Int) -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/cargas%20brasil%20Swift/ICargasBrasil/ICargasBrasil/ui/register/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "89D42B28-EB7C-4991-B95E-442D70280FD5 - 8f061cfff47a5057"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterViewController.pickerView(_: __C.UIPickerView, didSelectRow: Swift.Int, inComponent: Swift.Int) -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40DCD2EB-F318-4E8C-93CD-3987B45E8C63"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/RegisterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "pickerView(_:titleForRow:forComponent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "40DCD2EB-F318-4E8C-93CD-3987B45E8C63 - 6f03de617b1a190d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterViewController.pickerView(_: __C.UIPickerView, didSelectRow: Swift.Int, inComponent: Swift.Int) -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/cargas%20brasil%20Swift/ICargasBrasil/ICargasBrasil/ui/register/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "40DCD2EB-F318-4E8C-93CD-3987B45E8C63 - f84489fff67d24fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterViewController.pickerView(_: __C.UIPickerView, titleForRow: Swift.Int, forComponent: Swift.Int) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/cargas%20brasil%20Swift/ICargasBrasil/ICargasBrasil/ui/register/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "40DCD2EB-F318-4E8C-93CD-3987B45E8C63 - 18414b61791d6f92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterViewController.pickerView(_: __C.UIPickerView, titleForRow: Swift.Int, forComponent: Swift.Int) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3F2DE59-A987-4D83-A27D-CEAD53E14089"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/RegisterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "pickerView(_:numberOfRowsInComponent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F3F2DE59-A987-4D83-A27D-CEAD53E14089 - f84489fff67d249b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterViewController.pickerView(_: __C.UIPickerView, titleForRow: Swift.Int, forComponent: Swift.Int) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/cargas%20brasil%20Swift/ICargasBrasil/ICargasBrasil/ui/register/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "F3F2DE59-A987-4D83-A27D-CEAD53E14089 - 3d94fa9f627b0f71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterViewController.pickerView(_: __C.UIPickerView, numberOfRowsInComponent: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/cargas%20brasil%20Swift/ICargasBrasil/ICargasBrasil/ui/register/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "F3F2DE59-A987-4D83-A27D-CEAD53E14089 - dd913801ed1b4459"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterViewController.pickerView(_: __C.UIPickerView, numberOfRowsInComponent: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/RegisterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "148E7964-FC0C-4B21-8CF3-DCAD382D79F6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/RegisterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "createPickerView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93039C6E-CF54-4036-A7F5-C0073BAD27B0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/RegisterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "dismissPickerView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

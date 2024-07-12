@@ -1,0 +1,46 @@
+# platform :ios, '13.0'
+
+use_frameworks!
+
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    target.build_configurations.each do |config|
+        config.build_settings.delete 'DEAD_CODE_STRIPPING'
+        config.build_settings['SWIFT_VERSION'] = '5.8' # or '5.8'
+        config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '13.0'
+        config.build_settings['MACOSX_DEPLOYMENT_TARGET'] = '13.0'
+        config.build_settings['DEAD_CODE_STRIPPING'] = 'YES'
+        xcconfig_path = config.base_configuration_reference.real_path
+        xcconfig = File.read(xcconfig_path)
+        xcconfig_mod = xcconfig.gsub(/DT_TOOLCHAIN_DIR/, "TOOLCHAIN_DIR")
+        File.open(xcconfig_path, "w") { |file| file << xcconfig_mod }
+    end
+  end
+end
+
+def external_pods
+  # para pods externos da empresa
+  pod 'MBProgressHUD' #, '~> 1.2.0', :inhibit_warnings => true
+  pod 'CryptoSwift', '~> 1.4.1'
+  pod 'Alamofire'
+  pod 'ReachabilitySwift'
+  pod 'RealmSwift', '~> 10.37.2', :inhibit_warnings => true
+  pod 'InputMask'
+  pod 'CPF-CNPJ-Validator'
+  pod "VMaskTextField"
+end
+
+target 'ICargasBrasil' do
+  external_pods
+  # Adicione seus próprios pods aqui
+end
+
+target 'ICargasBrasilTests' do
+  external_pods
+  # Adicione seus próprios pods aqui
+  inherit! :search_paths
+end
+
+target 'ICargasBrasilUITests' do
+  # Adicione seus próprios pods aqui
+end

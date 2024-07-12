@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3765183A-BE2F-417C-873F-2AB251697BD3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5138D27-F9EA-4D00-B1A7-A3E399D252D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/RegisterStepTwo/RegisterStepTwoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "showDisplayCityByCep(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D5138D27-F9EA-4D00-B1A7-A3E399D252D2 - a540f0f928e91609"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTwoViewController.showDisplayAdressByCep(ICargasBrasil.Cep) -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/RegisterStepTwo/RegisterStepTwoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "D5138D27-F9EA-4D00-B1A7-A3E399D252D2 - a540f0f928e91609"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTwoViewController.showDisplayAdressByCep(ICargasBrasil.Cep) -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/RegisterStepTwo/RegisterStepTwoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0A88589-0E50-406D-9535-279BC0C50886"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/RegisterStepTwo/RegisterStepTwoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "showDisplayCityByCep(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A0A88589-0E50-406D-9535-279BC0C50886 - a540f0f928e9162e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTwoViewController.showDisplayAdressByCep(ICargasBrasil.Cep) -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/RegisterStepTwo/RegisterStepTwoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "832">
+               </Location>
+               <Location
+                  uuid = "A0A88589-0E50-406D-9535-279BC0C50886 - a540f0f928e9162e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTwoViewController.showDisplayAdressByCep(ICargasBrasil.Cep) -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/RegisterStepTwo/RegisterStepTwoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6653CEBA-ED8C-417E-8D40-5D19DCE1A683"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/RegisterStepTwo/RegisterStepTwoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "isValidZipCode(zipcode:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6653CEBA-ED8C-417E-8D40-5D19DCE1A683 - 5add420e1e6dede9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTwoViewController.isValidZipCode(zipcode: Swift.String) -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/RegisterStepTwo/RegisterStepTwoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "6653CEBA-ED8C-417E-8D40-5D19DCE1A683 - 5add420e1e6dede9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTwoViewController.isValidZipCode(zipcode: Swift.String) -&gt; Swift.Optional&lt;Swift.Bool&gt;"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/RegisterStepTwo/RegisterStepTwoViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "336">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "751D48D6-A2C6-4B3C-A686-686029679286"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "createRestListener()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "751D48D6-A2C6-4B3C-A686-686029679286 - fb6332851682b96c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in ICargasBrasil.RegisterStepTreeViewController.createRestListener() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "751D48D6-A2C6-4B3C-A686-686029679286 - f4514c232ae749a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in ICargasBrasil.RegisterStepTreeViewController.createRestListener() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "751D48D6-A2C6-4B3C-A686-686029679286 - f4514c232ae749a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in ICargasBrasil.RegisterStepTreeViewController.createRestListener() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "751D48D6-A2C6-4B3C-A686-686029679286 - f4514c232ae749a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in ICargasBrasil.RegisterStepTreeViewController.createRestListener() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "751D48D6-A2C6-4B3C-A686-686029679286 - c8ac21fa55004bbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in ICargasBrasil.RegisterStepTreeViewController.createRestListener() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/CargasBrasil%20Deixar%20logado/CargasBrasilMobile/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "751D48D6-A2C6-4B3C-A686-686029679286 - 636ead5d6f990106"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in ICargasBrasil.RegisterStepTreeViewController.createRestListener() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Downloads/CargasBrasilMobile/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B5564A9-56AB-4FA0-A8D3-CF70E0AEDD8E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "postRegisterUser()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6B5564A9-56AB-4FA0-A8D3-CF70E0AEDD8E - 7958a1f71cb31d5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTreeViewController.didTouchRegister(Any) -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "6B5564A9-56AB-4FA0-A8D3-CF70E0AEDD8E - b4247db7d228dfe5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTreeViewController.postRegisterUser() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "6B5564A9-56AB-4FA0-A8D3-CF70E0AEDD8E - b4247db7d228df80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTreeViewController.postRegisterUser() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "6B5564A9-56AB-4FA0-A8D3-CF70E0AEDD8E - 73cd488fb586e96d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTreeViewController.postRegisterUser() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/CargasBrasil%20Deixar%20logado/CargasBrasilMobile/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "6B5564A9-56AB-4FA0-A8D3-CF70E0AEDD8E - d80fc4288f1fa2e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTreeViewController.postRegisterUser() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Downloads/CargasBrasilMobile/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37E8BC2B-9BCE-4AC4-A90A-DBA85B02C11D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "createRestListener()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "37E8BC2B-9BCE-4AC4-A90A-DBA85B02C11D - f4514c232ae7407"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in ICargasBrasil.RegisterStepTreeViewController.createRestListener() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "37E8BC2B-9BCE-4AC4-A90A-DBA85B02C11D - f4514c232ae74d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in ICargasBrasil.RegisterStepTreeViewController.createRestListener() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "37E8BC2B-9BCE-4AC4-A90A-DBA85B02C11D - f4514c232ae74f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in ICargasBrasil.RegisterStepTreeViewController.createRestListener() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "37E8BC2B-9BCE-4AC4-A90A-DBA85B02C11D - c8ac21fa55004b9e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in ICargasBrasil.RegisterStepTreeViewController.createRestListener() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/CargasBrasil%20Deixar%20logado/CargasBrasilMobile/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "37E8BC2B-9BCE-4AC4-A90A-DBA85B02C11D - 636ead5d6f990165"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in ICargasBrasil.RegisterStepTreeViewController.createRestListener() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Downloads/CargasBrasilMobile/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3961733E-D5C8-44F5-B8A4-686009662C6D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/datasources/model/service/RegisterUserService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "execute(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C8C637F-5532-461E-9D44-DCCAE93ED557"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/RegisterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "queryRegisterUser(request:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1C8C637F-5532-461E-9D44-DCCAE93ED557 - 3fec527cbf6bad84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ICargasBrasil.RegisterViewModel.queryRegisterUser(request: ICargasBrasil.RegisterUserRequest) -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/RegisterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "1C8C637F-5532-461E-9D44-DCCAE93ED557 - 58238a5b51935bc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in ICargasBrasil.RegisterViewModel.queryRegisterUser(request: ICargasBrasil.RegisterUserRequest) -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/RegisterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "1C8C637F-5532-461E-9D44-DCCAE93ED557 - 4c60feca6c6bf789"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ICargasBrasil.RegisterViewModel.queryRegisterUser(request: ICargasBrasil.RegisterUserRequest) -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/CargasBrasil%20Deixar%20logado/CargasBrasilMobile/ICargasBrasil/ui/register/RegisterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "1C8C637F-5532-461E-9D44-DCCAE93ED557 - 2baf26ed829301cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in ICargasBrasil.RegisterViewModel.queryRegisterUser(request: ICargasBrasil.RegisterUserRequest) -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/CargasBrasil%20Deixar%20logado/CargasBrasilMobile/ICargasBrasil/ui/register/RegisterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "1C8C637F-5532-461E-9D44-DCCAE93ED557 - d9450f3aba1dfb92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ICargasBrasil.RegisterViewModel.queryRegisterUser(request: ICargasBrasil.RegisterUserRequest) -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Downloads/CargasBrasilMobile/ICargasBrasil/ui/register/RegisterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "1C8C637F-5532-461E-9D44-DCCAE93ED557 - be8ad71d54e50c2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Bool&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in ICargasBrasil.RegisterViewModel.queryRegisterUser(request: ICargasBrasil.RegisterUserRequest) -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Downloads/CargasBrasilMobile/ICargasBrasil/ui/register/RegisterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF6B5DD6-0850-4B9F-A60F-E5F0F7F18DD9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/RegisterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "queryRegisterUser(request:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF294586-8E68-4DD0-9DA9-A750421CB52D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/RegisterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "queryRegisterUser(request:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD4F4274-E60E-4567-982A-045DD6E71ADC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/RegisterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "queryRegisterUser(request:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CE5D8D2-786C-4C58-B1CF-5CF8E624E7E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/RegisterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "queryRegisterUser(request:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "625E703E-5628-4C6A-AE80-EEC2E099610F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "postRegisterUser()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "625E703E-5628-4C6A-AE80-EEC2E099610F - b4247db7d228deb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTreeViewController.postRegisterUser() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "2172">
+               </Location>
+               <Location
+                  uuid = "625E703E-5628-4C6A-AE80-EEC2E099610F - b4247db7d228deb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTreeViewController.postRegisterUser() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "2196">
+               </Location>
+               <Location
+                  uuid = "625E703E-5628-4C6A-AE80-EEC2E099610F - b4247db7d228df5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTreeViewController.postRegisterUser() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "2172">
+               </Location>
+               <Location
+                  uuid = "625E703E-5628-4C6A-AE80-EEC2E099610F - b4247db7d228df5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTreeViewController.postRegisterUser() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "2196">
+               </Location>
+               <Location
+                  uuid = "625E703E-5628-4C6A-AE80-EEC2E099610F - 73cd488fb586e800"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTreeViewController.postRegisterUser() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/CargasBrasil%20Deixar%20logado/CargasBrasilMobile/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "2172">
+               </Location>
+               <Location
+                  uuid = "625E703E-5628-4C6A-AE80-EEC2E099610F - 73cd488fb586e800"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTreeViewController.postRegisterUser() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/CargasBrasil%20Deixar%20logado/CargasBrasilMobile/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "2196">
+               </Location>
+               <Location
+                  uuid = "625E703E-5628-4C6A-AE80-EEC2E099610F - d80fc4288f1fa1bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTreeViewController.postRegisterUser() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Downloads/CargasBrasilMobile/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "2172">
+               </Location>
+               <Location
+                  uuid = "625E703E-5628-4C6A-AE80-EEC2E099610F - d80fc4288f1fa1bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTreeViewController.postRegisterUser() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Downloads/CargasBrasilMobile/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "2196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E373665E-8E5C-4EE5-B9FF-F3E767A05E0E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "postRegisterUser()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E373665E-8E5C-4EE5-B9FF-F3E767A05E0E - b4247db7d228defe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTreeViewController.postRegisterUser() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "3340">
+               </Location>
+               <Location
+                  uuid = "E373665E-8E5C-4EE5-B9FF-F3E767A05E0E - b4247db7d228de99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTreeViewController.postRegisterUser() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/Projeto%20Cargas%20brasil%20aula%20/ICargasBrasil/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "3340">
+               </Location>
+               <Location
+                  uuid = "E373665E-8E5C-4EE5-B9FF-F3E767A05E0E - 73cd488fb586e846"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTreeViewController.postRegisterUser() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/CargasBrasil%20Deixar%20logado/CargasBrasilMobile/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "3340">
+               </Location>
+               <Location
+                  uuid = "E373665E-8E5C-4EE5-B9FF-F3E767A05E0E - d80fc4288f1fa1fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ICargasBrasil.RegisterStepTreeViewController.postRegisterUser() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Downloads/CargasBrasilMobile/ICargasBrasil/ui/register/registerStepTree/RegisterStepTreeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "3340">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FAC7DBCE-02AA-4EA5-97A5-C0B9033D73E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/registerStepOne/RegisterStepOneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
+            landmarkName = "didTouchNext(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75F2753B-9DF9-43A2-86E5-9F9F5F24B1EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/registerStepOne/RegisterStepOneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "didTouchNext(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2851F30F-9CEF-4837-A825-C8DB9DAD866D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/register/registerStepOne/RegisterStepOneViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
+            landmarkName = "validateValues()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F85AAF22-0BBB-4D16-BAF8-70D86DE25C57"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "createRestListener()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2A34B9B-B49C-4FEB-B8F6-ECFD8C7A0EA8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "createRestListener()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C24AC4DD-8FBD-4E48-AA5F-24E5334CFAF6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "createRestListener()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18933452-176D-43AA-9876-7D699EDEB95C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/datasources/model/service/AdvertsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "execute(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "758D0180-68F3-49C8-BFC5-FD42A748636B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/datasources/model/service/AdvertsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "execute(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "773435F9-38F8-42A4-9563-AE16B111ACE7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/home/NewPostCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "createRestListener()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "773435F9-38F8-42A4-9563-AE16B111ACE7 - 3fe363565903bd87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;ICargasBrasil.EmptyResponse&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in ICargasBrasil.NewPostCollectionViewCell.createRestListener() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/CargasBrasil%20Deixar%20logado/CargasBrasilMobile/ICargasBrasil/ui/home/NewPostCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "316">
+               </Location>
+               <Location
+                  uuid = "773435F9-38F8-42A4-9563-AE16B111ACE7 - 3fe363565903bd87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;ICargasBrasil.EmptyResponse&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in ICargasBrasil.NewPostCollectionViewCell.createRestListener() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Desktop/CargasBrasil%20Deixar%20logado/CargasBrasilMobile/ICargasBrasil/ui/home/NewPostCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "773435F9-38F8-42A4-9563-AE16B111ACE7 - 17fb34a259a59a3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;ICargasBrasil.EmptyResponse&gt;, Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; () in ICargasBrasil.NewPostCollectionViewCell.createRestListener() -&gt; ()"
+                  moduleName = "ICargasBrasil"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edilsonborges/Downloads/CargasBrasilMobile/ICargasBrasil/ui/home/NewPostCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B97DAD32-61B9-4951-81E4-3ADB5EAAABB4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/home/NewPostCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "didTouchAnucio(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A26EAE8-D45D-455B-8EBA-EA7EBB3BFD16"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/home/NewPostCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "postLogin()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51937FF9-E57F-414C-813D-68BA4C5D0543"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/home/NewPostCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "awakeFromNib()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A21A260B-1300-413E-97F3-8F370DA0EC0F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ICargasBrasil/ui/home/NewPostCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "postLogin()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
